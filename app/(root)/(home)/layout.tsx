@@ -6,7 +6,7 @@ import Sidebar from '@/components/Sidebar';
 
 export const metadata: Metadata = {
   title: 'SkillCall',
-  description: 'Skillconnect's Videocalling Interface.',
+  description: 'Skillconnect - Videocalling Interface.',
 };
 
 const RootLayout = ({ children }: Readonly<{children: ReactNode}>) => {
